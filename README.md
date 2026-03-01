@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ThePhoneHub.in
 Refurbished Smartphone E-Commerce Platform
 SOFTWARE REQUIREMENTS SPECIFICATION
@@ -594,3 +595,7 @@ QA Lead
 Business Stakeholder			
 
 This document is subject to change. All revisions must be approved by the Product Owner and committed to the project Git repository with a version tag.
+=======
+# thephoneehub
+A Refurbished Phone Website
+>>>>>>> 2417ca864e24a6d67ecc098717c9e5fa4fe4865f
